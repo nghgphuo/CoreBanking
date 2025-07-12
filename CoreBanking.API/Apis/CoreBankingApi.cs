@@ -1,5 +1,4 @@
-﻿
-using CoreBanking.API.Models;
+﻿using CoreBanking.API.Models;
 using CoreBanking.API.Services;
 
 namespace CoreBanking.API.Apis
